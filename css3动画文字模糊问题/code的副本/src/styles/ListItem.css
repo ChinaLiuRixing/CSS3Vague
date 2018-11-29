@@ -1,0 +1,56 @@
+.listitem{
+    height: 17.3rem;
+    overflow: hidden;
+    border-bottom: 0.7rem solid rgb(237, 242, 243);
+}
+.listitem .top{
+    height: 12.5rem;
+    position: relative;
+}
+.listitem .top .hotel{
+    width: 100%;
+}
+.listitem .top .head{
+    position: absolute;
+    width: 3.8rem;
+    right: 1.3rem;
+    bottom: -1.9rem;
+    border-radius: 50%;
+}
+.listitem .bottom{
+    height: 4.8rem;
+    width: 100%;
+    position: absolute;
+}
+.listitem .bottom .title{
+    margin-top: 1.125rem;
+    font-size: 1.125rem;
+    text-indent: 0.75rem;
+    margin-bottom: 0.4rem;
+}
+.listitem .bottom .desc{
+    text-indent: 0.5rem;
+}
+.listitem .bottom .desc .text{
+    margin-left: 0.25rem;
+    font-size: 0.6rem;
+    color:rgb(186, 186, 186);
+}
+.listitem .bottom .desc .score{
+    color: rgb(124, 124, 124);
+    margin-left: 0.25rem;
+    font-size: 0.6rem;
+}
+.listitem .bottom .priceContainer{
+    position: absolute;
+    bottom: 1.5rem;
+    right: 1.3rem;
+}
+.listitem .bottom .priceContainer .price{
+    font-size: 1.2rem;
+    color: rgb(254, 58, 0);
+}
+.listitem .bottom .priceContainer .text{
+    font-size: 0.8rem;
+    color: rgb(137, 137, 137);
+}

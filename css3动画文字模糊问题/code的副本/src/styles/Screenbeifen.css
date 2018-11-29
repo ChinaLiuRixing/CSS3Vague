@@ -1,0 +1,23 @@
+.screen{
+    /* height: calc(100%-100px); */
+    height: 3.25rem;
+    position: fixed;
+    top: 6.6rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    z-index: 1000;
+    background: #fff;
+}
+.screen .item{
+    width: 25%;
+    display: inline-block;
+    text-align: center;
+    height: 100%;
+    line-height: 3.25rem;
+}
+.screen img{
+    width: 0.5rem;
+    margin-left: 0.3rem;
+}

@@ -1,0 +1,32 @@
+.red{
+  background: red;
+  width: 100%;
+}
+.purple{
+  background: purple;
+  width: 100%;
+}
+.green{
+  background: green;
+  width: 100%;
+}
+.blue{
+  background: blue;
+  width: 100%;
+}
+.yellow{
+  background: yellow;
+  width: 100%;
+}
+.pink{
+  background: pink;
+  width: 100%;
+}
+
+.content{
+  position: relative;;
+  top: 9.85rem;
+}
+#app{
+  overflow: hidden;
+}

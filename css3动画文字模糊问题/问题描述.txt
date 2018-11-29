@@ -1,0 +1,11 @@
+1.相关文件位置
+    ./src/styles/jump.css
+    .toggletrue{
+        /* 关闭下面这段不产生动画，打开这段，产生动画 */
+        /* animation: arise 3s;
+        animation-fill-mode: forwards; */
+    }
+    ./src/scripts/Jump.js
+
+2.已删除nodemodules
+3.author：15776556165 rixing.liu

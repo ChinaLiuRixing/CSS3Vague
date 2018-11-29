@@ -1,0 +1,81 @@
+.static-header{
+    height: 6.6rem;
+    position: fixed;
+    z-index: 1000;
+    background: #fff;
+    width: 100%;
+}
+.static-header .top{
+    height: 3.3rem;
+    display: flex;
+    align-items: center;
+}
+.static-header .top .quit{
+    width: 14%;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.static-header .top .quit img{
+    height: 60%;
+}
+.static-header .top .search{
+    width: 72%;
+    height: 2rem;
+    border: 1px solid rgb(70, 201, 219);
+    border-radius: 5px;
+    display: flex;
+    align-content: center;
+}
+.static-header .top .search .left{
+    height: 100%;
+    width: 36%;
+    border-right: 1px solid rgb(70, 201, 219);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.static-header .top .search .left img{
+    height: 1rem;
+}
+.static-header .top .search .right{
+    height: 100%;
+    width: 64%;
+    overflow: hidden;
+}
+.static-header .top .search .right input{
+    background: rgb(229, 248, 250);
+    outline: none;
+    height: 2rem;
+    border: none;
+    width: 100%;
+    font-size: 0.8rem;
+    line-height: 2rem;
+    text-indent: 0.5rem;
+}
+.static-header .bottom{
+    height: 3.3rem;
+    border-bottom: 1px solid rgb(226, 231, 234);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.static-header .bottom img{
+    height: 1rem;
+    margin-right: 0.5rem;
+}
+.static-header .bottom .start{
+    margin-left: 0.5rem;
+}
+.static-header .bottom .text1{
+    color: rgb(131, 130, 135)
+}
+.static-header .bottom .text2{
+    color: #000;
+}
+.static-header .bottom .line{
+    height: 0.15rem;
+    width: 3rem;
+    background: rgb(202, 202, 202);
+}

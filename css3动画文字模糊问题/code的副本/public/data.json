@@ -1,0 +1,29 @@
+{
+    "listdata":[
+        {
+            "title":"厦门鼓浪屿浅夏旅馆",
+            "srcUrl":"./public/item.png",
+            "price":"444","srcHead":"./public/lv.jpg",
+            "score":4.8,"comments":1444,
+            "position":"距离海底世界22米"
+        },{
+            "title":"厦门鼓浪屿浅夏旅馆",
+            "srcUrl":"./public/item.png",
+            "price":"444","srcHead":"./public/lv.jpg",
+            "score":4.8,"comments":1444,
+            "position":"距离海底世界22米"
+        },{
+            "title":"厦门鼓浪屿浅夏旅馆",
+            "srcUrl":"./public/item.png",
+            "price":"444","srcHead":"./public/lv.jpg",
+            "score":4.8,"comments":1444,
+            "position":"距离海底世界22米"
+        },{
+            "title":"厦门鼓浪屿浅夏旅馆",
+            "srcUrl":"./public/item.png",
+            "price":"444","srcHead":"./public/lv.jpg",
+            "score":4.8,"comments":1444,
+            "position":"距离海底世界22米"
+        }
+    ]
+}
